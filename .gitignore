@@ -1,0 +1,5 @@
+/.vs
+/TitanicExplorer/obj
+/TitanicExplorer/bin
+/TitanicExplorer.Data.Tests/obj
+/TitanicExplorer.Data.Tests/bin
